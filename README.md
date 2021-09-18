@@ -1,1 +1,17 @@
 # code-refactor
+
+This project refactored the existed code of the Horiseon webpage. It applied the html semantic emelments to make the code easier for the browser and developers to read. It followed the sequential structure, and it used the alternative text for all images to inhance the accessibilty of the webpage. All changes are properlly commented, and the css codes are consolidated to make it look prettier. Search Engine Obtimization in the nav bar is bebugged and fixed, and it works properly.
+
+# Deployed Webpage Screenshot
+
+The webpage looks after deployment.
+
+![Horiseon webpage](assets/images/horiseon-webpage.png)
+
+# Links
+
+[The URL of the deployed application](https://hekmatsalehi.github.io/code-refactor/)
+
+[The URL of the GitHub repository](https://github.com/hekmatsalehi/code-refactor.git)
+
+

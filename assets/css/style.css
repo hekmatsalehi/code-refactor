@@ -1,11 +1,9 @@
-/* Universal selector has box-sizing of border-box and padding and margin of 0 */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* body selector sets the webpage background-color to #d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
@@ -88,27 +86,27 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Cosolidate class selector */
+/* Cosolidate three class selector to benefit class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
+/* Cosolidate three class selector to benefit class */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* Cosolidate three class selector to benefit class */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
-.search-engine-optimization {
+/* Consolidate three class selector to section-main class */
+.section-main {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,47 +115,12 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+/* Consolidate three class selector to section-main class */
+.section-main img {
     max-height: 200px;
 }
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* Consolidate three class selector to section-main class */
+.section-main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
